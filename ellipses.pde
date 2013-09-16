@@ -1,4 +1,4 @@
-//Little time and not much creativity. This turned out not like I intended, but I decided to go with this example. 
+//Little time and not much creativity. This turned out not like I intended, but I decided to go with this example anyway. 
 //I have used all the instances that were mentioned in the assignment. 
 //Looks mesmerizing, multiple lines creates an illusion that colors are mixing and I kind of like that. 
 
